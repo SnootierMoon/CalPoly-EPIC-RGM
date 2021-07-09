@@ -13,4 +13,4 @@ or only the bottom one should be used.
 ![Breadboard](rube_goldberg_bb.svg "Breadboard")
 
 ## Demo
-![Demo](https://youtu.be/uu_OtAkOIzY)
+[Demo](https://youtu.be/uu_OtAkOIzY)
