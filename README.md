@@ -6,6 +6,11 @@ activates. Then, when something moves in front of the HC-SR04, a
 song plays.
 
 ## Breadboard
+NOTE: the image is missing wires to connect the top and bottom
+power rails. Either something should be added to connect them,
+or only the bottom one should be used.
 
 ![Breadboard](rube_goldberg_bb.svg "Breadboard")
 
+## Demo
+![Demo](https://youtu.be/uu_OtAkOIzY)
