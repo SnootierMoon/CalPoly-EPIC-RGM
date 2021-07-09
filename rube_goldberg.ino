@@ -12,14 +12,14 @@
 #define P_BUZZER 12
 #define P_BUTTON 13
 
-#define P_LED_B 6
-#define P_LED_G 9
-#define P_LED_R 10
+#define P_LED_B 9
+#define P_LED_G 10
+#define P_LED_R 11
 
 #define P_SERVO 5
 
-#define P_SR04_TRIG 7
-#define P_SR04_ECHO 8
+#define P_SR04_ECHO 7
+#define P_SR04_TRIG 8
 
 /*
  *       GLOBAL STATE
